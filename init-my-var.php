@@ -4,3 +4,4 @@ function initialize_script_global() {
   global $mes_scripts;
   $mes_scripts = array();
 }
+?>
