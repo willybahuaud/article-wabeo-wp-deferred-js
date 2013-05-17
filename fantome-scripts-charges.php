@@ -1,4 +1,3 @@
-<?php
 add_action( 'wp_footer', 'afficher_moi_tout_ca', 99 );
 function afficher_moi_tout_ca() {
   global $mes_scripts,$wp_scripts;

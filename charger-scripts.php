@@ -1,4 +1,3 @@
-<?php
 // code à insérer avant la fermeture de affichez_moi_tout_ca()
 if( ! empty( $mes_scripts_ordonnes ) ) {
   $output = '<script src="' . get_bloginfo( 'template_url' ) . '/js/lab.min.js"></script>' . "\n";
