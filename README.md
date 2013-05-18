@@ -1,9 +1,9 @@
-Code source de l'article WordPress et les JavaScripts asynchrones, sur wabeo
+WordPress et les JavaScripts asynchrones
 ========
 
-** L'article sur wabeo
+## L'article sur wabeo
 
-Cet article à été publié sur [wabeo](http://wabeo.fr/blog/wordpress-javascripts-asynchrones/) 
+Cet article à été publié sur [wabeo](http://wabeo.fr/blog/wordpress-javascripts-asynchrones/), les sources mis ici à disposition ont légèrement été revues et seront bientôt mises à jour. 
 
 ## Le plugin
 
